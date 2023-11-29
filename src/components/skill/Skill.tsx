@@ -7,9 +7,9 @@ const Skill = () => {
   const [skillReactjs, setSkillReactjs] = React.useState<number | string>(
     59.999
   );
-  const [skillUiUx, setSkillUiUx] = React.useState<number | string>(59.999);
+  const [skillUiUx, setSkillUiUx] = React.useState<number | string>(40.000);
 
-  const [skillNestJs, setSkillNestJs] = React.useState<number | string>(59.999);
+  const [skillNestJs, setSkillNestJs] = React.useState<number | string>(40.000);
   const [skillNodeJs, setSkillNodeJs] = React.useState<number | string>(59.999);
   const [skillDatabase, setSkillDatabase] = React.useState<number | string>(
     59.999

@@ -1,7 +1,7 @@
 import React from "react";
 import avatar from "@/assets/../assets/img/about/avatar.png";
 import { TypeAnimation } from "react-type-animation";
-import CV_Thai_Duy_Tan_Fullstack_Developer from "./CV_Thai_Duy_Tan_Fullstack_Developer.pdf";
+import CV_Thai_Duy_Tan_Fullstack_Developer from "./CV_Thai_Duy_Tan_Developer.pdf";
 import Parallax from "parallax-js";
 import background from "@/assets/img/about/550x640.jpg";
 
